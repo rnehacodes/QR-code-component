@@ -59,4 +59,4 @@ Implementing comple layouts using different layout techniques like flexbox, grid
 
 ## Author
 
-- Frontend Mentor - [@rnehacodes](https://www.frontendmentor.io/profile/rnehacodes)
+- [@rnehacodes](https://www.frontendmentor.io/profile/rnehacodes)

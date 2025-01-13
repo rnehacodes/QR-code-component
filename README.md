@@ -49,7 +49,7 @@ This helped me learn how to make simple layout with just basic style attributes.
 
 ### Continued development
 
-Implementing comple layouts using different layout techniques like flexbox, grid etc.
+Implementing complex layouts using different layout techniques like flexbox, grid etc.
 
 ### Useful resources
 

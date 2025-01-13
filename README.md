@@ -1,6 +1,6 @@
 # QR-code-component
 
-Building a card layout using just HTML &amp; CSS
+Building a card layout using just HTML &amp; CSS. The live project demo can be found [here](https://rnehacodes.github.io/QR-code-component/).
 
 # Frontend Mentor - QR code component solution
 
